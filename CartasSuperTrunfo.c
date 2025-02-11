@@ -20,7 +20,7 @@ int main() {
      printf("Digite o PIB da cidade\n");
      scanf("%f", &PIB);
 
-     printf("Digite quantos pontos turisticosde sua cidade\n");
+     printf("Digite quantos pontos turisticos de sua cidade\n");
      scanf("%d", &pt);
 
      printf("- Nome: %s\n - populacao: %f\n - Area: %f\n - PIB %f\n - Pontos turisticos: %d\n", nome, populacao, area, PIB, pt);
